@@ -1,0 +1,15 @@
+.blue-greenyellow { color: blue; background-color: greenyellow; }
+
+.text-center { text-align: center; }
+
+.border-red { border: 2px solid red; } 
+
+.size-200 { width: 200px; height: 200px; }
+
+.margin-top-space { margin-top: 50px; }
+
+.margin-left-space { margin-left: 20px; }
+
+.padding-top-space { padding-top: 50px; }
+
+.padding-left-space { padding-left: 50px; }
