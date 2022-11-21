@@ -1,0 +1,35 @@
+.btn-outline-success {
+    --bs-btn-color: chocolate;
+    --bs-btn-border-color: chocolate;
+    --bs-btn-hover-bg: chocolate;
+    --bs-btn-hover-border-color: chocolate;
+}
+
+nav {
+    /* padding: 2rem; */
+}
+
+footer {
+    background: #19110b;
+    font-size: 14px;
+    color:white;
+}
+
+.first-line {
+    color: white;
+    border-bottom: 1px solid #392d23;
+}
+
+.second-line {
+    color: white;
+}
+
+.footer-a {
+    text-decoration: none;
+    color:white;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
